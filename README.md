@@ -25,6 +25,6 @@ The ChEBI-20 dataset used in this project can be found [here](https://github.com
 
 ## Optimize 
 
-Please run the RLLL.py and optimize the generated model in conjunction with the generation task.
+Please run the RLLL.py file to optimize the generative model based on the generation task.
   
 
