@@ -21,7 +21,6 @@ The ChEBI-20 dataset used in this project can be found [here](https://github.com
    python train_diffusion.py
 
 ## Sample
-
      ```bash
      sec_sample.py
 
