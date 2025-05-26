@@ -8,10 +8,12 @@ The ChEBI-20 dataset used in this project can be found [here](https://github.com
 
 1. Train the encoder
 
+   The training dataset here retains only the SMILES sequences of molecules.
+
    ```bash
    python train_vae.py
 
-2. Training diffusion model
+3. Training diffusion model
    
    Please create a new folder dm_ckpt to save the trained model.
    
