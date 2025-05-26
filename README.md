@@ -20,7 +20,11 @@ The ChEBI-20 dataset used in this project can be found [here](https://github.com
 
 ## Sample
 
-  ```bash
-  sec_sample.py
+     ```bash
+     sec_sample.py
 
-## Optimize
+## Optimize 
+
+Please run the RLLL.py and optimize the generated model in conjunction with the generation task.
+  
+
